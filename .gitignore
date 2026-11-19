@@ -3,3 +3,4 @@
 !*.md
 !*.asm
 !.gitignore
+!build.sh
